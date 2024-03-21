@@ -1,6 +1,6 @@
 # 3S-Software-Team
 
-This GitHub page is used during a Samrt Solution Semester for studies at the Saxion Hogeschool in Enschede.
+This GitHub page is used during a Smart Solution Semester for studies at the Saxion Hogeschool in Enschede.
 
 Here you can find the following information:
 
